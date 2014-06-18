@@ -18,6 +18,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [self doNothing];
+}
+
+-(void)doNothing
+{
+    NSLog(@"My new method");
 }
 
 - (void)didReceiveMemoryWarning
