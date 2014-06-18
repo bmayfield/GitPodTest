@@ -4,7 +4,7 @@ platform :ios, "7.0"
 target "GitPodTest" do
 
     pod 'ZumeroSync/SQLCipher'
-    pod 'FMDB/SQLCipher'
+    pod 'PDKeychainBindingsController'
 
 end
 
