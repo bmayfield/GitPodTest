@@ -18,8 +18,7 @@
 {
     [super viewDidLoad];
 
-    NSLog(@"Hello, Blayne!");
-	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"Hello, khan!");
     [self doNothing];
 }
 
